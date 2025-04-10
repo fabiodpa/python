@@ -1,1 +1,47 @@
+1. Monitoramento de Reclamações de Serviços Públicos
+Processo:
+Coletar automaticamente comentários da população via redes sociais, formulário do site da prefeitura e WhatsApp oficial. Usar o Language Studio para identificar o sentimento geral (positivo, neutro ou negativo) e a categoria (ex: saúde, segurança, transporte).
 
+Insights possíveis:
+
+68% das menções sobre transporte foram negativas nas últimas 3 semanas.
+
+O bairro "Jardim São Pedro" concentra 40% das reclamações sobre iluminação pública.
+
+Possibilidades de ação:
+
+Gerar um dashboard em tempo real para priorização de manutenção pela Secretaria de Obras.
+
+Criar campanhas de resposta rápida em redes sociais para recuperar a confiança dos cidadãos.
+
+2. Avaliação da Experiência do Cidadão com Serviços de Saúde
+Processo:
+Aplicar uma pesquisa simples após atendimento médico (UBS, pronto atendimento) via tablet ou SMS. Usar análise de sentimentos para classificar o tom das respostas (ex: elogios, frustração, gratidão).
+
+Insights possíveis:
+
+Pacientes que mencionam “tempo de espera” tendem a usar palavras com forte sentimento negativo (ex: “absurdo”, “desrespeito”).
+
+Comentários com palavras como “atenciosa”, “cuidou bem” indicam alta satisfação com enfermeiras, mas não com médicos.
+
+Possibilidades de ação:
+
+Criar um programa de capacitação e empatia para os médicos, baseado nos feedbacks.
+
+Redesenhar a logística do atendimento para reduzir tempo de espera nos horários de pico.
+
+3. Análise de Sentimentos em Avaliações do Comércio Local
+Processo:
+Integrar avaliações do Google e redes sociais de estabelecimentos (bares, mercados, restaurantes) e usar o Azure AI para extrair sentimento por categoria de serviço (ex: atendimento, preço, qualidade).
+
+Insights possíveis:
+
+Comércio de alimentação tem o maior índice de avaliações negativas relacionadas a atendimento, mas boa pontuação em sabor e ambiente.
+
+Pequenas lojas de bairro são elogiadas pela proximidade e simpatia, mas criticadas pela limitação de produtos.
+
+Possibilidades de ação:
+
+Oferecer treinamentos de atendimento ao cliente em parceria com o SEBRAE local.
+
+Criar um selo “Atendimento Amigo” para comércios bem avaliados, incentivando boas práticas.
